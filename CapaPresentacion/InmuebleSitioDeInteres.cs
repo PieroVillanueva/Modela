@@ -28,7 +28,9 @@ namespace CapaPresentacion
                 registrarSitioDeInteres = new InmuebleSitioDeInteresRegistrarSitioDeInteres(this);
 
             }
+
             this.Hide();
+            registrarSitioDeInteres.listarSitin();
             registrarSitioDeInteres.Show();
         }
 
@@ -40,6 +42,7 @@ namespace CapaPresentacion
 
             }
             this.Hide();
+            buscarSitioDeInteres.ListarSitin();
             buscarSitioDeInteres.Show();
         }
 

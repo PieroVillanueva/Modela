@@ -24,6 +24,7 @@ namespace CapaPresentacion
         {
             this.refCMostrarUsuario = refCMostrarUsuario;
             auxidUsuario = int.Parse(filaActual.Cells[0].Value.ToString());
+           // MessageBox.Show("1:"+ auxidUsuario);
             txtContraseña.Text = filaActual.Cells[1].Value.ToString();
             //txtDni.Text = filaActual.Cells[2].Value.ToString();
             txtNombre.Text = filaActual.Cells[3].Value.ToString();
@@ -46,23 +47,15 @@ namespace CapaPresentacion
             {
                 entUsuario Usu = new entUsuario();
                 Usu.idUsuario = auxidUsuario;
+               // MessageBox.Show("2:" + Usu.idUsuario);
                 Usu.contrasena = txtContraseña.Text.Trim();
-                //Usu.dni = int.Parse(txtDni.Text.Trim());
                 Usu.nombre = txtNombre.Text.Trim();
                 Usu.apellidoP = txtAPaterno.Text.Trim();
                 Usu.apellidoM = txtAMaterno.Text.Trim();
                 Usu.edad = int.Parse(txtEdad.Text.Trim());
-                //if (cbSexo.SelectedItem.ToString() == "FEMENINO")
-                //{
-                //Usu.sexo = 'F';
-                // }
-                // else if (cbSexo.SelectedItem.ToString() == "MASCULINO")
-                //  {
-                //     Usu.sexo = 'M';
-                // }
                 Usu.telefono = int.Parse(txtTelefono.Text.Trim());
-                Usu.correo = txtCorreo.Text.Trim();
-                Usu.habilitar = true;
+                Usu.correo = txtCorreo.Text.Trim();               
+                Usu.cargo= txtCargo.Text.Trim();
                 logUsuario.Instancia.EditarUsuario(Usu);
                 this.Hide();
                 refCMostrarUsuario.abrir();
@@ -79,6 +72,11 @@ namespace CapaPresentacion
             refCMostrarUsuario.Show();
 
             this.Hide();
+        }
+
+        private void txtCargo_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

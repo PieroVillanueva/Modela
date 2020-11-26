@@ -173,6 +173,7 @@
             this.txtCargo.Name = "txtCargo";
             this.txtCargo.Size = new System.Drawing.Size(305, 27);
             this.txtCargo.TabIndex = 10;
+            this.txtCargo.TextChanged += new System.EventHandler(this.txtCargo_TextChanged);
             // 
             // txtTelefono
             // 

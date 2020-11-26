@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using CapaEntidad;
+using System.Windows.Forms;
+
 namespace CapaAccesoDatos
 {
     public class datUsuario
@@ -65,10 +67,13 @@ namespace CapaAccesoDatos
                 
                 SqlConnection cn = Conexion.Instancia.Conectar();
                 cmd = new SqlCommand("sp_editarUsuario", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@idUsuario", Usu.idUsuario);
                 cmd.Parameters.AddWithValue("@contrasena", Usu.contrasena);
-                //cmd.Parameters.AddWithValue("@dni", Usu.dni);
                 cmd.Parameters.AddWithValue("@nombre", Usu.nombre);
+                                
+                //cmd.Parameters.AddWithValue("@dni", Usu.dni);
+                
                 cmd.Parameters.AddWithValue("@apellidoP", Usu.apellidoP);
                 cmd.Parameters.AddWithValue("@apellidoM", Usu.apellidoM);
                 cmd.Parameters.AddWithValue("@edad", Usu.edad);
@@ -76,9 +81,11 @@ namespace CapaAccesoDatos
                 cmd.Parameters.AddWithValue("@cargo", Usu.cargo);
                 cmd.Parameters.AddWithValue("@telefono", Usu.telefono);
                 cmd.Parameters.AddWithValue("@correo", Usu.correo);
+                
+
+                // cmd.Parameters.AddWithValue("@idUsuario", Usu.idUsuario);
                 cn.Open();
                 cmd.ExecuteNonQuery();
-
             }
             catch (Exception e)
             {
