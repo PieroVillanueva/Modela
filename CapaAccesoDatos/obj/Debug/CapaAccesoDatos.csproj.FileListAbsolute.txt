@@ -1,0 +1,63 @@
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

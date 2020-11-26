@@ -1,0 +1,538 @@
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble1.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaCancelarCita.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaModificarCita.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCitaErrorCitaEncontrada.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteInhabilitarCliente.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoEliminarBanco.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoModificarNombre.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBancoErrorBancoExistente.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleIngresarCiudad.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorEliminarSector.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioMostrarDatosDePropietario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietarioErrorPropietarioEncontrado.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\XDD\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaCancelarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaModificarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCitaErrorCitaEncontrada.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteInhabilitarCliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoEliminarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoModificarNombre.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBancoErrorBancoExistente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleIngresarCiudad.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorEliminarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioMostrarDatosDePropietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietarioErrorPropietarioEncontrado.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaCancelarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaModificarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCitaErrorCitaEncontrada.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoEliminarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoModificarNombre.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBancoErrorBancoExistente.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleIngresarCiudad.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorEliminarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioMostrarDatosDePropietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietarioErrorPropietarioEncontrado.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\ProyULTIMOS - copia\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaCancelarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCitaModificarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCitaErrorCitaEncontrada.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoEliminarBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBancoModificarNombre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBancoErrorBancoExistente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleIngresarCiudad.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorEliminarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioBuscarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioModificarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CiudadIngresarCiudad.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioBuscarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioModificarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CiudadIngresarCiudad.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioBuscarPropietario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioModificarPropietario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioInhabilitarUsuario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarVentasDeUsuario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Lenovo\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CiudadIngresarCiudad.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioBuscarPropietario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioModificarPropietario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\fucion\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cita.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaBuscarCita.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CitaRegistrarCita.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.CiudadIngresarCiudad.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarCliente.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteBuscarClienteModificarDatos.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.ClienteRegistrarCliente.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Inmueble.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBanco.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoMostrarBanco.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleBancoRegistrarBanco.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarVentaDeInmueble.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSector.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSector.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorMostrarSectorModificarSector.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmueble.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleCasa.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleContrato.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleDepartamento.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMantenedorDeInmuebleTerreno.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContrato.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoInhabilitarContrato.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarContratoModificarDatos.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleMostrarInmueble.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSectorRegistrarSector.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteres.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresEliminar.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresMostrarSitioDeInteresModificarDatos.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleSitioDeInteresRegistrarSitioDeInteres.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleTerceroVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacion.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmuebleVerificacionRequisitos.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.InmuebleVentaDeInmueblePropioVerificacionRequisitosRegistro.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.MainPrincipal.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Propietario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioBuscarPropietario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioModificarPropietario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.PropietarioRegistrarPropietario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioMostrarDatosDeUsuarioModificarDatos.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.UsuarioRegistrarUsuario.resources
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Desktop\union interfaces\ProyectoInmobiliriaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

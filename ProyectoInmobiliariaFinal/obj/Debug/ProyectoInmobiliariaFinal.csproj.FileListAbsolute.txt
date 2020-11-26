@@ -1,0 +1,10 @@
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\bin\Debug\ProyectoInmobiliariaFinal.exe.config
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\bin\Debug\ProyectoInmobiliariaFinal.exe
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\bin\Debug\ProyectoInmobiliariaFinal.pdb
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.csprojAssemblyReference.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.Form1.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.Properties.Resources.resources
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.csproj.GenerateResource.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.exe
+C:\Users\OSCAR\source\repos\ProyectoInmobiliariaFinal\ProyectoInmobiliariaFinal\obj\Debug\ProyectoInmobiliariaFinal.pdb
